@@ -14,15 +14,15 @@ website creation
         <P>“Participants will be given a visual reference of an ocean-themed website.
         Your task is to recreate the design as closely as possible using only HTML & CSS.
         Focus on layout, animations, and visual depth.”</P>
-        <input type="text" placeholder="enter your name">
-        <br />
-        <input type="password" placeholder="password">
-        <br />
+       
     </header>
     <main>
         <form action="/action.php">
         <h2> REGISTRATION FORM</h2>
-        
+        <input type="text" placeholder="enter your name">
+        <br />
+        <input type="password" placeholder="password">
+        <br />
         <h3>select your standard</h3>
         <select name="standard">
             <option value="class 11th"> class 11th</option>
