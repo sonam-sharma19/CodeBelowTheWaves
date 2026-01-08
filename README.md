@@ -16,7 +16,7 @@ website creation
         Focus on layout, animations, and visual depth.”</P>
        
     </header>
-    <main>
+ 
         <form action="/action.php">
         <h2> REGISTRATION FORM</h2>
         <input type="text" placeholder="enter your name">
@@ -52,9 +52,9 @@ website creation
         <h3> do feedback</h3>
         <input type="submit" value="submit" >
     </form>
-    </main>
-    <footer>
+ 
+  
         <h4>Thanks for your valuable feedback</h4>
-    </footer>
+
 </body>
 </html>
