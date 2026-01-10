@@ -9,13 +9,13 @@ website creation
     <title></title>
 </head>
 <body>
-    <header>
+
         <h1>CODE BELOW THE WAVES</h1
         <P>“Participants will be given a visual reference of an ocean-themed website.
         Your task is to recreate the design as closely as possible using only HTML & CSS.
         Focus on layout, animations, and visual depth.”</P>
        
-    </header>
+   
  
         <form action="/action.php">
         <h2> REGISTRATION FORM</h2>
@@ -52,8 +52,7 @@ website creation
         <h3> do feedback</h3>
         <input type="submit" value="submit" >
     </form>
- 
-  
+
         <h4>Thanks for your valuable feedback</h4>
 
 </body>
